@@ -25,4 +25,3 @@ print(len(maior_que_media))
 print(f'menor {menor}')
 print(f'maior {maior}')
 print(f'media {media}')
-#pesquisar /len
